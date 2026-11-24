@@ -160,6 +160,24 @@ Maintained by [NexGenData](https://thenextgennexus.com/) — the team behind 470
 - [Ai Web Scraper - Extract Data With Ease](https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease?fpr=2ayu9b) — Ai Web Scraper enables scraping for everyone, including non-techies!. `@eloquent_mountain`
 - [Deep Website Content Crawler](https://apify.com/6sigmag/deep-website-content-crawler?fpr=2ayu9b) — Scrape Failed Killer!. `@6sigmag`
 - [Similarweb Scraper](https://apify.com/radeance/similarweb-scraper?fpr=2ayu9b) — Extract website traffic, global rank, country rank, bounce rate, visit duration, and traffic sources from Similarweb. `@radeance`
+- [Ashby 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/ashby-jobs-scraper) — 任意 Ashby 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [Calibration Ledger MCP：机构预测历史记录（测试版）](https://apify.com/publicrecords/calibration-ledger) — 机构（IMF、OECD、美联储、欧洲央行 SPF、上市发行人）的预测历史记录：误差、偏差和区间覆盖率。测试版 (Apify).
+- [公司社交账号 MCP：从官网找到 LinkedIn 与社交链接](https://apify.com/publicrecords/company-social-profile-finder) — 根据公司名称或官网，找到其 LinkedIn、X、YouTube、Instagram 和 Facebook 账号，并附证据 (Apify).
+- [Etsy 搜索 MCP：商品、价格与畅销品](https://apify.com/publicrecords/etsy-search-scraper) — 按关键词或类目获取 Etsy 搜索结果：价格、评分、评论数、Bestseller 徽章、广告标记和搜索排名 (Apify).
+- [Etsy 店铺每日销量 MCP](https://apify.com/publicrecords/etsy-shop-velocity) — 37 万多家 Etsy 店铺的每日、7 天和 28 天销量，依据各店铺公开的销量计数器测得 (Apify).
+- [欧盟 TED 招标 MCP：每日政府采购公告](https://apify.com/publicrecords/eu-ted-notices-scraper) — 来自 TED（欧盟每日招标公报）的政府采购公告：采购方、CPV、金额、截止日期和来源链接 (Apify).
+- [Google 广告透明度 MCP：竞品广告](https://apify.com/publicrecords/google-ads-transparency-scraper) — 从 Google 广告透明度中心获取竞品新投放、投放中和已停止的 Google 广告，含首次和最后展示日期 (Apify).
+- [美国联邦合同 MCP：SAM.gov + Grants.gov](https://apify.com/publicrecords/govcon-opportunity-feed) — SAM.gov 与 Grants.gov 的美国联邦新合同和资助公告，合并为一个数据流，附来源链接 (Apify).
+- [Grants.gov MCP：开放中的美国联邦资助](https://apify.com/publicrecords/grants-gov-scraper) — Grants.gov 上开放中的美国联邦资助：机构、截止日期、申请资格和来源链接 (Apify).
+- [Greenhouse 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/greenhouse-jobs-scraper) — 任意 Greenhouse 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [市议会会议 MCP（Legistar）](https://apify.com/publicrecords/legistar-meetings-scraper) — 任何使用 Legistar 的城市的市议会会议、议程事项和文件，附来源链接 (Apify).
+- [Lever 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/lever-jobs-scraper) — 任意 Lever 招聘页面自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [Skool 社群抓取 MCP](https://apify.com/publicrecords/skool-community-growth-tracker) — 按关键词搜索 Skool 社群：成员数、价格、评分、预估月收入和每日增长 (Apify).
+- [SmartRecruiters 职位 MCP：任意日期以来的新职位](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) — 任意 SmartRecruiters 招聘网站自指定日期或时间窗口（24 小时、7 天、30 天）以来发布的新职位，含完整信息 (Apify).
+- [体育赔率 API MCP：BetRivers、Unibet、Paf、Svenska Spel](https://apify.com/publicrecords/sports-odds-api) — 一次调用获取 BetRivers、Unibet、Paf、Svenska Spel 和 ATG 的赛前及滚球赔率，并给出每个结果的最佳赔率 (Apify).
+- [Spotify 播放量与月度听众 MCP](https://apify.com/publicrecords/spotify-play-count-scraper) — 输入单曲、专辑、歌单或艺人链接，获取每首歌的 Spotify 播放量，以及艺人的月度听众数和粉丝数 (Apify).
+- [英国招标 MCP：Find a Tender 与 Contracts Finder](https://apify.com/publicrecords/uk-find-a-tender-scraper) — 英国 Find a Tender 与 Contracts Finder 的政府招标：采购方、金额、截止日期和来源链接 (Apify).
+- [USAspending 授予 MCP：美国联邦合同与资助授予](https://apify.com/publicrecords/usaspending-awards-scraper) — USAspending 中的美国联邦合同与资助授予，可按机构、获得方、NAICS 和时间段筛选 (Apify).
 
 ## AI & Agents
 
