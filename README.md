@@ -175,6 +175,7 @@ Maintained by [NexGenData](https://thenextgennexus.com/) — the team behind 470
 - [Skool Community Scraper](https://apify.com/publicrecords/skool-community-growth-tracker) — Search Skool communities: members, price, rating, estimated revenue, daily growth. `@publicrecords`
 - [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) — New job postings from any SmartRecruiters careers site since a date or window. `@publicrecords`
 - [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) — Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome. `@publicrecords`
+- [Tennis Scores API](https://apify.com/publicrecords/tennis-scores-api) — ATP and WTA match scores, results and rankings. `@publicrecords`
 - [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) — Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners. `@publicrecords`
 - [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) — UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline. `@publicrecords`
 - [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) — US federal contract and grant awards by agency, recipient, NAICS and period. `@publicrecords`
